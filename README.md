@@ -1,7 +1,7 @@
 ### Olá eu sou José Mário (jjcoura)👋👋✋✋
 [![Youtube] (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3csw7y2yqDEkOEGwSx-xqw)
 
-![jjcoura GitHub stats](https://github-readme-stats.vercel.app/api?username=jjcoura&show_icons=true&theme=onedark)
+![jjcoura GitHub stats](https://github-readme-stats.vercel.app/api?username=jjcoura&theme=blue-green)
 ![jjcoura GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjcoura&theme=blue-green)
 
 ## Tecnologias do meu dia
