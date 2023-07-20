@@ -2,7 +2,7 @@
 [![Youtube] (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3csw7y2yqDEkOEGwSx-xqw)
 
 ![jjcoura GitHub stats](https://github-readme-stats.vercel.app/api?username=jjcoura&show_icons=true&theme=onedark)
-![jjcoura GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjcoura&layout=compact&theme=onedark&langs_count=16)
+![jjcoura GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjcoura&theme=blue-green)
 
 ## Tecnologias do meu dia
 <div style="display: inline_block"><br/>
@@ -17,7 +17,9 @@
     <img align = "center" alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
     <img align = "center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img align = "center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img align = "center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align = "center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>      
+           
+          
 </div><br/><br/>
 <p>
     Sempre me aperfeiçoando! Estudante e amante de tecnologia e segurança da informação.</p>
